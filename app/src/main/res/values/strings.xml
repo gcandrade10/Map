@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealtimaMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_rationale">Permission</string>
+    <string name="permission_denied_explanation">Permission denied</string>
+    <string name="settings">Settings</string>
+</resources>
